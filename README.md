@@ -1,2 +1,2 @@
 # rbaseballmanager.github.io
-Record Baseball Manager
+Welcome to Record Baseball Manager!!
